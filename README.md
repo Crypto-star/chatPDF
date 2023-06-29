@@ -10,4 +10,4 @@ Install the following Libraries
 Enter your API key in the .env file in the placeholder provided
 
 For runing the code From your terminal type:
-streamlit run app.py
+streamlit run ChatPDF.py
