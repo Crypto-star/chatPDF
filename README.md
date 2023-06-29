@@ -6,6 +6,8 @@ Install the following Libraries
 3. streamlit
 4. pypdf2
 5. python-dotenv
+6. tiktoken
+7. faiss/faiss-cpu
 
 Enter your API key in the .env file in the placeholder provided
 
